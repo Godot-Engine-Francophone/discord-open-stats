@@ -10,5 +10,9 @@
   },
   "discord": {
     "token": "DISCORD_TOKEN"
+  },
+  "server": {
+    "port": "PORT",
+    "host": "HOST"
   }
 }

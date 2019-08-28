@@ -11,6 +11,10 @@
     "idleTimeoutMillis": 300000,
     "ssl": false
   },
+  "server": {
+    "port": 1337,
+    "host": "localhost"
+  },
   "sql": {
     "encoding": "utf-8",
     "relativeDirectory": "sql"
@@ -23,6 +27,7 @@
     "trackerID": "MY_VERY_SECRET_TRACKER_ID"
   },
   "discord": {
-    "token": "MY_SUPER_SECRET_TOKEN"
+    "token": "MY_SUPER_SECRET_TOKEN",
+    "autoReconnect": true
   }
 }

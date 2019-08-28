@@ -5,6 +5,7 @@
   "main": "lib/index.js",
   "scripts": {
     "start": "node lib/index.js",
+    "lint": "node_modules/.bin/standard lib/",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -19,8 +20,27 @@
   },
   "homepage": "https://github.com/binogure-studio/discord-open-stats#readme",
   "dependencies": {
+    "boom": "^7.3.0",
     "config": "^3.2.2",
+    "db-migrate": "^0.11.6",
+    "db-migrate-pg": "^1.0.0",
     "discord.js": "^11.5.1",
-    "ganalytics": "^3.1.2"
+    "got": "^9.6.0",
+    "hapi": "^18.1.0",
+    "inert": "^5.1.3",
+    "joi": "^14.3.1",
+    "pg": "^7.12.1",
+    "pg-pool": "^2.0.7",
+    "request": "^2.88.0",
+    "uuid": "^3.3.3"
+  },
+  "devDependencies": {
+    "standard": "^14.0.2"
+  },
+  "standard": {
+    "ignore": [
+      "dist/",
+      "migrations/"
+    ]
   }
 }
