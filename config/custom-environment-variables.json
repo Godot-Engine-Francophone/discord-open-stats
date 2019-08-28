@@ -1,0 +1,14 @@
+{
+  "database": {
+    "host": "DB_HOSTNAME",
+    "user": "DB_USERNAME",
+    "password": "DB_PASSWORD",
+    "database": "DB_NAME"
+  },
+  "google": {
+    "trackerID": "GOOGLE_TRACKER_ID"
+  },
+  "discord": {
+    "token": "DISCORD_TOKEN"
+  }
+}

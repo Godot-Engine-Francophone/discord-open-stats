@@ -1,0 +1,26 @@
+{
+  "name": "discord-open-stats",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "start": "node lib/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/binogure-studio/discord-open-stats.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/binogure-studio/discord-open-stats/issues"
+  },
+  "homepage": "https://github.com/binogure-studio/discord-open-stats#readme",
+  "dependencies": {
+    "config": "^3.2.2",
+    "discord.js": "^11.5.1",
+    "ganalytics": "^3.1.2"
+  }
+}
