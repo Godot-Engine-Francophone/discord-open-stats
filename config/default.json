@@ -20,7 +20,7 @@
     "relativeDirectory": "sql"
   },
   "logger": {
-    "namespace": "easy-error-reporter",
+    "namespace": "discord-open-stats",
     "level": "debug"
   },
   "google": {
@@ -29,5 +29,15 @@
   "discord": {
     "token": "MY_SUPER_SECRET_TOKEN",
     "autoReconnect": true
+  },
+  "management": {
+    "server": "MY_SERVER_ID",
+    "channel": "MY_CHANNEL_ID",
+    "embedMessage": "Welcome,\n\nReact to the message to get access to this discord and start posting messages!",
+    "roles": ["MY_ROLE_ID"],
+    "reactions": ["💙"],
+    "embed": true,
+    "embedFooter": "You must give some love ❤",
+    "embedColor": "#dd9323"
   }
 }
