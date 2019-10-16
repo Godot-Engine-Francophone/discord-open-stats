@@ -21,5 +21,10 @@
     "roles": {
       "__name": "DISCORD_ROLE_ID",
       "__format": "json"
+    },
+    "reactions": {
+      "__name": "DISCORD_ROLE_EMOJI",
+      "__format": "json"
+    }
   }
 }
