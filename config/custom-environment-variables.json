@@ -18,6 +18,6 @@
   "management": {
     "server": "DISCORD_SERVER_ID",
     "channel": "DISCORD_CHANNEL_ID",
-    "roles": ["DISCORD_ROLE_ID", "DISCORD_ROLE_ID", "DISCORD_ROLE_ID", "DISCORD_ROLE_ID", "DISCORD_ROLE_ID", "634069534508056586"]
+    "roles": "DISCORD_ROLE_ID"
   }
 }
