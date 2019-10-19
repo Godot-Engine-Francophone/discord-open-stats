@@ -39,6 +39,7 @@
     "embed": true,
     "embedFooter": "You must give some love ❤",
     "embedColor": "#dd9323",
-    "retryDelay": 10000
+    "retryDelay": 10000,
+    "retryAttempt": 5
   }
 }
