@@ -38,6 +38,7 @@
     "reactions": ["💙"],
     "embed": true,
     "embedFooter": "You must give some love ❤",
-    "embedColor": "#dd9323"
+    "embedColor": "#dd9323",
+    "retryDelay": 10000
   }
 }
