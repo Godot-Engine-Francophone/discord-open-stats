@@ -16,6 +16,7 @@
     "host": "HOST"
   },
   "management": {
+    "enabled": "DISCORD_SERVER_ENABLED",
     "server": "DISCORD_SERVER_ID",
     "channel": "DISCORD_CHANNEL_ID",
     "roles": {
