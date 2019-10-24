@@ -31,6 +31,7 @@
     "autoReconnect": true
   },
   "management": {
+    "enabled": false,
     "server": "MY_SERVER_ID",
     "channel": "MY_CHANNEL_ID",
     "embedMessage": "Welcome,\n\nReact to the message to get access to this discord and start posting messages!",
