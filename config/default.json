@@ -24,7 +24,11 @@
     "level": "debug"
   },
   "google": {
-    "trackerID": "MY_VERY_SECRET_TRACKER_ID"
+    "trackerID": "MY_VERY_SECRET_TRACKER_ID",
+    "session": {
+      "quota": 500,
+      "batchedItems": 20
+    }
   },
   "discord": {
     "token": "MY_SUPER_SECRET_TOKEN",
