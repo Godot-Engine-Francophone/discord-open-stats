@@ -19,6 +19,8 @@
     "enabled": "DISCORD_SERVER_ENABLED",
     "server": "DISCORD_SERVER_ID",
     "channel": "DISCORD_CHANNEL_ID",
+    "embedFooter": "DISCORD_EMBED_FOOTER",
+    "embedMessage": "DISCORD_EMBED_MESSAGE",
     "roles": {
       "__name": "DISCORD_ROLE_ID",
       "__format": "json"
