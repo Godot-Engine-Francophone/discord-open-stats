@@ -21,7 +21,7 @@
   "homepage": "https://github.com/binogure-studio/discord-open-stats#readme",
   "dependencies": {
     "boom": "^7.3.0",
-    "config": "^3.2.2",
+    "config": "^3.3.8",
     "db-migrate": "^0.11.6",
     "db-migrate-pg": "^1.0.0",
     "discord.js": "^11.5.1",
